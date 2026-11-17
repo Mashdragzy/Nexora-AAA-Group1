@@ -69,7 +69,7 @@ Our requests to Claude Code were spoken in French through voice dictation, so th
 > Please show how to download a public project on GitHub in order to use it as a base for another project.
 
 **Prompt 11: enrich the video narration**
-> *(to complete by the teammate: the prompt given to ChatGPT with the first version of the video to get extra narration passages)*
+> ChatGPT was used to draft three narration passages for the video (The challenge, Responsible AI, AI in finance). The exact prompt was not saved; the passages were reviewed and edited by the team.
 
 The three passages ChatGPT suggested were added to the voice-over of the final video, with light edits to match our writing rules.
 
